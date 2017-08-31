@@ -1,3 +1,4 @@
+//zadanie 9.1
 //var a = prompt('Podaj A trójkąta.');
 //var h = prompt('Podaj H trójkąta.');
 //
@@ -10,6 +11,7 @@
 //}
 //console.log(getTriangleArea(a,h));
 
+// zadanie 9.2
 var maleNames = ['Mateusz', 'Józef'];
 var femaleNames = ['Aleksandra', 'Agnieszka'];
 
